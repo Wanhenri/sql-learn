@@ -1,0 +1,17 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+      "description": "Wanderson",
+      "version": "1.0.0",
+      "title": "Test for flask + REatJS",
+      "license": {
+        "name": "MIT",
+        "url": "https://opensource.org/licenses/MIT"
+      }
+    },
+    "servers": [
+      {
+        "url": "/"
+      }
+    ]
+}
